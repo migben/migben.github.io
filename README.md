@@ -1,7 +1,7 @@
 # Dev Landing Page
 
 This is a Minimalistic landing page styled for developers like me.
-You can check it out => [Live](migben.github.io)
+You can check it out => [Live](https://migben.github.io)
 
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
