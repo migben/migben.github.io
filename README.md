@@ -1,10 +1,10 @@
 # Dev Landing Page 
 
-This is a Minimalistic landing page styled for developers like me.
+This is a Minimalistic landing page, as I keep learning this website will change.
 You can check it out => [Live](https://migben.github.io)
 ***
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://youtu.be/IPYeCltXpxw?t=16)
 
 I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point. I think most of the devs out there would want the same.
 ***
